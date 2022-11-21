@@ -1,0 +1,74 @@
+{
+  "movie": [
+    {
+      "id": "mov1",
+      "title": "Shawshank Redemption",
+      "desc": "The Shawshank Redemption adalah film drama Amerika Serikat tahun 1994 yang ditulis dan disutradarai Frank Darabont dan dibintangi Tim Robbins dan Morgan Freeman",
+      "rating": "5",
+      "img": "https://upload.wikimedia.org/wikipedia/id/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+      "id": "mov2",
+      "title": "Lupin",
+      "desc": "Terinspirasi oleh petualangan Arsène Lupin, pencuri pria Assane Diop bersiap untuk membalas dendam ayahnya atas ketidakadilan yang ditimbulkan oleh keluarga kaya.",
+      "rating": "4",
+      "img": "https://static.wikia.nocookie.net/netflix/images/3/30/Lupin_S1_Poster.jpg/revision/latest?cb=20210108012313"
+    },
+    {
+      "id": "mov3",
+      "title": "Kingsman",
+      "desc": "Kingsman: The Golden Circle merupakan sebuah film aksi petualangan Britania Raya-Amerika Serikat yang dirilis pada tahun 2017. Film yang disutradarai oleh Matthew Vaughn ini diperankan oleh Colin Firth, Taron Egerton dan masih banyak lagi",
+      "rating": "4",
+      "img": "https://lumiere-a.akamaihd.net/v1/images/image_6f0e4de5.jpeg?region=0%2C0%2C800%2C1200"
+    },
+    {
+      "id": "mov4",
+      "title": "The Imitation Game",
+      "desc": "Berdasarkan kisah kehidupan nyata seorang cryptanalyst legendaris Alan Turing, salah satu ahli Matematika terbaik di dunia dan Enigma: Alat pembuat kode terhebat dalam sejarah.",
+      "rating": "4",
+      "img": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_.jpg"
+    },
+    {
+      "id": "mov5",
+      "title": "Jumper",
+      "desc": "Jumper merupakan sebuah film Amerika Serikat yang dirilis pada tahun 2008. Film yang disutradarai oleh Doug Liman ini pemainnya antara lain ialah Hayden Christensen, Jamie Bell, Rachel Bilson, Samuel L. Jackson, dan masih banyak lagi.",
+      "rating": "4",
+      "img": "https://bewinchester.files.wordpress.com/2011/04/jumper20085726_f.jpg?w=640"
+    },
+    {
+      "id": "mov6",
+      "title": "Harry Potter",
+      "desc": "Harry Potter adalah serial film yang didasarkan pada novel eponim oleh J. K. Rowling. Serial ini didistribusikan oleh Warner Bros. dan terdiri dari delapan film fantasi, dimulai dengan Harry Potter and the Philosopher's Stone dan berpuncak dengan Harry Potter and the Deathly Hallows",
+      "rating": "4",
+      "img": "https://ae01.alicdn.com/kf/HTB1quEjKpXXXXavXXXXq6xXFXXX4/Qunexc-24X36-INCH-ART-SILK-POSTER-HARRY-POTTER-POSTER-Tawanan-azkaban-RARE-BARU.jpg_Q90.jpg_.webp"
+    },
+    {
+      "id": "mov7",
+      "title": "The Raid",
+      "desc": "The Raid adalah film aksi seni bela diri dari Indonesia yang disutradarai oleh Gareth Evans dan dibintangi oleh Iko Uwais.",
+      "rating": "4",
+      "img": "https://resizing.flixster.com/t6xg1LTbeE9hoq4UhInzdim_O5U=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY2YTc3ZjJlLWFjNTktNGM4ZS05NjkxLTM4YzEyYWNlYTIxOS53ZWJw"
+    },
+    {
+      "id": "mov8",
+      "title": "The Call",
+      "desc": "The Call, juga dikenal sebagai Call, adalah film thriller Korea Selatan tahun 2020 yang disutradarai oleh Lee Chung-hyun, dibintangi oleh Park Shin-hye dan Jeon Jong-seo.",
+      "rating": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Call_poster.jpg/220px-Call_poster.jpg"
+    },
+    {
+      "id": "mov9",
+      "title": "The Avenger",
+      "desc": "Ketika musuh yang tak terduga muncul, mengancam keselamatan dan keamanan dunia, Nick Fury, direktur Badan Perdamaian Internasional, dikenal sebagai S.H.I.E.L.D. , membutuhkan tim untuk menyelamatkan dunia dari bencana. Usaha perekrutan pun dimulai Iron Man, Captain America, Hulk, Thor, Black Widow dan Hawkeye dikumpulkan untuk menaklukkan Dewa Kehancuran, Loki, dalam usahanya menghancurkan bumi. Dengan semua gabungan kekuatan, tugas nampak lebih mudah. Namun kenyatannya tidak demikian! Para pahlawan super justru saling melawan satu sama lain Hulk melawan Captain America, siapa yang akan menang? Apakah Iron Man dapat mengalahkan kekuatan super milik Thor? Bagaimana para pahlawan super ini secara bersama-sama menghadapi bencana, melindungi masyarakat dan yang terpenting, bertahan hidup?",
+      "rating": "4",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "mov10",
+      "title": "Iron man",
+      "desc": "Iron Man adalah sebuah film yang berdasarkan tokoh Marvel Comics, Iron Man. Film yang diproduksi Marvel Studios dan didistribusikan oleh Paramount Pictures ini adalah film pertama di Marvel Cinematic Universe.",
+      "rating": "4",
+      "img": "https://cf.shopee.co.id/file/a6914f351153b5642dc0c8a0ccf57b45"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tvshow": [
+    {
+      "id": "show1",
+      "title": "Alice in Borderland",
+      "desc": "Alice in Borderland adalah serial televisi drama thriller-thriller fiksi ilmiah Jepang berdasarkan manga dengan nama yang sama oleh Haro Aso.",
+      "rating": "5",
+      "img": "https://i.pinimg.com/originals/d5/57/35/d557351db3f60b2c7fc7ff2641260a61.jpg"
+    },
+    {
+      "id": "show2",
+      "title": "The Amazing World of Gumball",
+      "desc": "The Amazing World of Gumball adalah serial televisi animasi komedi yang dibuat oleh Ben Bocquelet untuk Cartoon Network. Diproduksi terutama oleh Cartoon Network Studios Europe",
+      "rating": "4",
+      "img": "https://i.pinimg.com/originals/5f/f4/4e/5ff44eb0e16776cbe319543c7a5e4a7e.jpg"
+    },
+    {
+      "id": "show3",
+      "title": "The Walking Dead",
+      "desc": "The Walking Dead terjadi setelah permulaan sebuah kiamat zombi di seluruh dunia. Zombi-zombi yang biasa disebut walker tersebut, berjalan menuju manusia dan makhluk hidup lainnya untuk memakannya (mereka tertarik pada kebisingan, misalnya suara tembakan, dan aroma yang berbeda, misalnya aroma manusia).",
+      "rating": "4",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71I1rRWXQeL.jpg"
+    },
+    {
+      "id": "show4",
+      "title": "SpongeBob Squarepants",
+      "desc": "SpongeBob SquarePants adalah seekor spons laut berwarna kuning dan berlubang-lubang, yang tinggal dalam sebuah rumah nanas dalam laut di kota Bikini Bottom, di lautan Pasifik. Tetangganya, Squidward Tentacles, adalah seekor gurita yang tinggal dalam rumah moai. Tetangga SpongeBob lain dan teman akrabnya, Patrick Star, adalah seekor bintang laut merah muda, tinggal di bawah sebuah batu. Rumah Squidward terletak di antara rumah Spongebob dan rumah Patrick, dan inilah yang meresahkan Squidward.",
+      "rating": "4",
+      "img": "https://m.media-amazon.com/images/M/MV5BNTk2NzEyNTQtZTQ5MS00MjAyLTgzMDMtNDNkYTBkM2M2OTU3XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "id": "show5",
+      "title": "Sweet Home",
+      "desc": "Setelah kematian keluarganya dalam sebuah kecelakaan, Cha Hyun-soo (Song Kang) yang penyendiri pindah ke apartemen baru. Tidak lama, kehidupannya yang tenang terganggu karena insiden-insiden aneh yang mulai terjadi di gedung barunya. Ketika orang-orang berubah menjadi monster, Hyun-soo dan penghuni lainnya mencoba bertahan.",
+      "rating": "4",
+      "img": "https://i.pinimg.com/736x/0a/fa/84/0afa84b6393d82d8c7ee6f9f1a08173f.jpg"
+    },
+    {
+      "id": "show6",
+      "title": "Start-Up",
+      "desc": "Start-Up berlatar belakang di kawasan fiksi Korea Selatan Silicon Valley yang disebut Sandbox dan menceritakan kisah orang-orang di dunia perusahaan startup.",
+      "rating": "4",
+      "img": "https://koreanindo.net/wp-content/uploads/2020/09/Suzy-Nam-Joo-Hyuk2.jpg"
+    },
+    {
+      "id": "show7",
+      "title": "Kakegurui",
+      "desc": "Serial anime Jepang yang diadaptasi dari manga dengan judul yang sama yang ditulis oleh Homura Kawamoto dan diilustrasikan oleh Tōru Naomura. Serial televisi anime dianimasikan oleh MAPPA. Ini ditayangkan dari Juli hingga September 2017 di Tokyo MX , MBS dan saluran lainnya.",
+      "rating": "4",
+      "img": "https://m.media-amazon.com/images/M/MV5BMmRhZDI4ODItYTAzMC00NWQ1LTk1MTctZWYyMDY3ZTU3NWFiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+      "id": "show8",
+      "title": "The Witcher",
+      "desc": "Pertunjukan ini awalnya mengikuti Geralt of Rivia, Putri Mahkota Ciri, dan penyihir Yennefer dari Vengerberg di berbagai titik waktu, menjelajahi peristiwa formatif yang membentuk karakter mereka, sebelum akhirnya bergabung menjadi satu garis waktu yang merinci penjajah dari Nilfgaard.",
+      "rating": "4",
+      "img": "https://cdn.shopify.com/s/files/1/0319/2540/3783/products/x_gye-fp4983_1.jpg?v=1608107964"
+    },
+    {
+      "id": "show9",
+      "title": "Peaky Blinder",
+      "desc": "Serial televisi drama kriminal Britania Raya yang dibuat oleh Steven Knight. Berlatar di Birmingham, Inggris, serial ini mengikuti eksploitasi keluarga kejahatan Shelby setelah langsung Perang Dunia Pertama. Keluarga fiksi secara longgar didasarkan pada geng pemuda perkotaan nyata dengan nama yang sama, yang aktif di kota dari tahun 1890-an hingga awal abad ke-20.",
+      "rating": "4",
+      "img": "https://i.pinimg.com/originals/d4/65/2d/d4652d0351fd059977785a8f7a14e400.jpg"
+    },
+    {
+      "id": "show10",
+      "title": "Flash",
+      "desc": "Serial televisi yang akan datang Amerika yang dikembangkan oleh penulis/produser Greg Berlanti, Andrew Kreisberg dan Geoff Johns, udara di The CW. Serial ini akan didasarkan pada karakter DC Comics Flash (Barry Allen), seorang superhero kejahatan-pejuang berkostum yang diciptakan oleh Robert Kanigher, John Broome dan Carmine Infantino",
+      "rating": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Flash_season_7.jpg"
+    }
+  ]
+}

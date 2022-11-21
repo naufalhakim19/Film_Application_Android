@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission1_FilmApplication</string>
+    <string name="title_mov">title_mov</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="s_5">%s / 5</string>
+    <string name="todo">TODO</string>
+    <string name="todo1" />
+    <string name="Movie"> MOVIE </string>
+    <string name="Tv_Shows"> TV SHOW </string>
+    <string name="rating_s_5">Rating: %s / 5</string>
+    <string name="description_s">Description: %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Favorite">Favorite</string>
+    <string name="movieTabs">Movie</string>
+    <string name="tvTabs">Tv Show</string>
+    <string name="favorite1">Favorite</string>
+</resources>
